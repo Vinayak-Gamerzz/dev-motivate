@@ -1,0 +1,28 @@
+# DevMotivate – Gamified Coding Productivity Extension 🚀
+
+DevMotivate is a gamified VS Code extension designed to boost developer productivity using motivation, humor, and progression.
+
+It transforms coding into an engaging experience by rewarding users with XP, ranks, and smart feedback.
+
+## Features
+
+* Earn XP automatically while coding
+* Rank progression system (Bronze → Legend)
+* Motivational quotes on saving files
+* Funny roast messages when idle
+* Live status bar showing XP and rank
+
+## Why this project?
+
+This extension helps developers stay consistent, focused, and entertained while working. Instead of coding feeling repetitive, DevMotivate turns it into a fun and rewarding experience.
+
+## Tech Stack
+
+* TypeScript
+* VS Code Extension API
+
+Built with a strong focus on user engagement, habit-building, and productivity enhancement.
+
+## Vision
+
+To make coding not just productive, but enjoyable — combining discipline with motivation and humor.
