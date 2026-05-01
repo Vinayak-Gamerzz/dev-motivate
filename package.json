@@ -2,6 +2,7 @@
   "name": "dev-motivate",
   "displayName": "dev-motivate",
   "publisher": "Vinayak-Gamerzz",
+  "icon": "icon.png",
   "description": "Boost your coding productivity with automatic motivational quotes inside VS Code.",
   "version": "0.0.1",
   "engines": {
