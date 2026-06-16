@@ -1,4 +1,4 @@
-# DevMotivate 🚀
+# DevMotivate 
 
 > Turn coding into a game with XP, ranks, motivation, and a little bit of roasting!!
 
